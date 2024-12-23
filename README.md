@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 ### 👨‍💻 About Me  
-- 🔭 I am an aspiring student aiming to pursue a degree in **Computer Science** and currently working on projects like a **Cheat Detection System in C++** and a **YOLOv8 Model for Game Hero Detection**.  
+- 🔭 I am an aspiring student aiming to pursue a degree in **Computer Science** and currently working on projects like a **Cheat Detection System in C++**.  
 - 🌱 I’m passionate about advancing my skills in **Computer Vision**, **AI/ML**, and **game assistance tools**, preparing myself for the challenges in the software development industry.  
 - 🎮 I specialize in solving complex problems and developing creative programs using **C++, Python, and C#**.  
 
