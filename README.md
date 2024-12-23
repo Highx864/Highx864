@@ -1,16 +1,21 @@
 ## Hi there 👋  
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on a **Cheat Detection System in C++** and **YOLOv8 Model for Game Hero Detection**.  
-- 🌱 I’m currently learning advanced techniques in **Computer Vision**, **Game Assistance Tools**, and **AI/ML**.  
-- 🎮 I specialize in creating **game-assistance programs** and complex tools using **C++, Python, and C#**.  
+- 🔭 I am an aspiring student aiming to pursue a degree in **Computer Science** and currently working on projects like a **Cheat Detection System in C++** and a **YOLOv8 Model for Game Hero Detection**.  
+- 🌱 I’m passionate about advancing my skills in **Computer Vision**, **AI/ML**, and **game assistance tools**, preparing myself for the challenges in the software development industry.  
+- 🎮 I specialize in solving complex problems and developing creative programs using **C++, Python, and C#**.  
 
 ### 🚀 My Projects  
-- 🛡️ **Cheat Detection System**: A system to detect and prevent cheating in games using efficient algorithms.  
-- 🤖 **YOLOv8 Hero Detector**: Custom-trained AI model to identify game heroes with high accuracy.  
+- 🛡️ **Cheat Detection System**: A system designed to detect and prevent cheating in games by developing efficient algorithms.  
+- 🤖 **YOLOv8 Hero Detector**: A custom-trained AI model to accurately identify game heroes using Computer Vision techniques.  
+
+### 🏆 Why I'm a Great Fit for Computer Science  
+- Proficient in programming languages such as **C++, Python, and C#**  
+- Experienced in developing projects combining **AI/ML** and **Computer Vision**  
+- Passionate about learning new technologies and honing my skills to become a professional software developer  
 
 ### 📫 How to Reach Me  
-- 📧 Email: genoznywin@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
+- 📧 Email: genoznywin@gmail.com 
+- 🔗 Instagram: [My Instagram Profile](https://www.instagram.com/_justice.q)  
 
-⚡ **Fun Fact**: I love combining my passion for gaming with programming to create innovative tools!  
+⚡ **Fun Fact**: I love combining my passion for gaming with programming to create innovative tools and solutions! 😊  
