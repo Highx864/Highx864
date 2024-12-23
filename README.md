@@ -6,8 +6,7 @@
 - 🎮 I specialize in solving complex problems and developing creative programs using **C++, Python, and C#**.  
 
 ### 🚀 My Projects  
-- 🛡️ **Cheat Detection System**: A system designed to detect and prevent cheating in games by developing efficient algorithms.  
-- 🤖 **YOLOv8 Hero Detector**: A custom-trained AI model to accurately identify game heroes using Computer Vision techniques.  
+- 🛡️ **Cheat Detection System**: A system designed to detect and prevent cheating in games by developing efficient algorithms.   
 
 ### 🏆 Why I'm a Great Fit for Computer Science  
 - Proficient in programming languages such as **C++, Python, and C#**  
