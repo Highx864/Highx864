@@ -15,7 +15,7 @@
 - Passionate about learning new technologies and honing my skills to become a professional software developer  
 
 ### 📫 How to Reach Me  
-- 📧 Email: genoznywin@gmail.com 
+- 📧 Email: cxlltabot1@gmail.com
 - 🔗 Instagram: [My Instagram Profile](https://www.instagram.com/_justice.q)  
 
 ⚡ **Fun Fact**: I love combining my passion for gaming with programming to create innovative tools and solutions! 😊  
